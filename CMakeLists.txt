@@ -3,6 +3,6 @@ project(cache_aware_oblivious_matmul)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(compiler_optimizations
+add_executable(compiler_optimization
     main.cpp
 )
